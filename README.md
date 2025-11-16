@@ -13,10 +13,10 @@
 
 ---
 
-![UI-3](<img width="1919" height="818" alt="Image" src="https://github.com/user-attachments/assets/a2ccac81-8c86-41c5-92e8-92aecccfaee9" />)
-![UI-3](<img width="1919" height="854" alt="Image" src="https://github.com/user-attachments/assets/62db4690-0bc8-4670-8fd9-61006021ea47" />)
-![UI-3](<img width="1919" height="849" alt="Image" src="https://github.com/user-attachments/assets/cfb48d70-abeb-45a8-b85d-ffad49770015" />)
-![UI-3](<img width="1919" height="867" alt="Image" src="https://github.com/user-attachments/assets/c555ac7d-ba12-4656-b40e-2e916641866e" />)
+![UI-3](https://github.com/user-attachments/assets/a2ccac81-8c86-41c5-92e8-92aecccfaee9)
+![UI-3](https://github.com/user-attachments/assets/62db4690-0bc8-4670-8fd9-61006021ea47)
+![UI-3](https://github.com/user-attachments/assets/cfb48d70-abeb-45a8-b85d-ffad49770015)
+![UI-3](https://github.com/user-attachments/assets/c555ac7d-ba12-4656-b40e-2e916641866e)
 
 ---
 
